@@ -1,0 +1,40 @@
+_repo: Rhymes-for-the-Young-Folk_46702
+contributor:
+  illustrators:
+  - agent_name: Furniss, Harry
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '25492'
+    url: http://www.gutenberg.org/2009/agents/25492
+  - agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+  - agent_name: Allingham, Helen
+    gutenberg_agent_id: '43910'
+    url: http://www.gutenberg.org/2009/agents/43910
+  - agent_name: Paterson, Caroline
+    gutenberg_agent_id: '43911'
+    url: http://www.gutenberg.org/2009/agents/43911
+creator:
+  author:
+    agent_name: Allingham, William
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '6965'
+    url: http://www.gutenberg.org/2009/agents/6965
+    wikipedia: http://en.wikipedia.org/wiki/William_Allingham
+description: Children's poetry, accompanied by musical scores for several songs.
+gutenberg_issued: '2014-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Rhymes for the Young Folk
+url: http://www.gutenberg.org/ebooks/46702
