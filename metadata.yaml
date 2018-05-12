@@ -1,4 +1,5 @@
 _repo: Rhymes-for-the-Young-Folk_46702
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Furniss, Harry
@@ -19,6 +20,9 @@ contributor:
   - agent_name: Paterson, Caroline
     gutenberg_agent_id: '43911'
     url: http://www.gutenberg.org/2009/agents/43911
+covers:
+- cover_type: archival
+  image_path: 46702-h/images/cover.jpg
 creator:
   author:
     agent_name: Allingham, William
@@ -28,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6965
     wikipedia: http://en.wikipedia.org/wiki/William_Allingham
 description: Children's poetry, accompanied by musical scores for several songs.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46702#Rhymes-for-the-Young-Folk
 gutenberg_issued: '2014-08-27'
 gutenberg_type: Text
 identifiers:
